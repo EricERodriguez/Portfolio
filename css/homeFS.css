@@ -151,13 +151,21 @@ h1, h2{
   .calendar{
     display: none;
   }
+  .underline-left{
+    display: none;
+  }
   #group{
     margin-left: 30%;
   }
-  /* .item{
-    width: 100% !important;
-    height: 200% !important;
-  } */
+  .item{
+    width: 300px !important;
+    height: 300px !important;
+    /* margin-left: -150px !important;
+    margin-right: 150px !important; */
+    display: flex !important;
+    text-align: center !important;
+    justify-content: center !important;
+  }
     .navTrigger {
         display: block;
     }
