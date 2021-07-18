@@ -7,6 +7,7 @@ h1 {
     align-items: center;
     justify-content: center;
     color: aliceblue;
+    
 }
 
 #imagenes {
@@ -19,8 +20,9 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100%;
+    width: 60%;
     height: 100%;
+    margin-left: 42%;
     /* margin-top: -40px; */
     /* border-radius: 20%; */
     /* border: 2px solid rgba(55, 160, 209, 0.527); */
@@ -33,8 +35,9 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100%;
-    margin-top: 40px;
+    width: 60%;
+    margin-top: 15px;
+    margin-left: 10PX;
     /* height: 100%; */
     /* border-radius: 20%; */
     /* border: 2px solid rgba(55, 160, 209, 0.527); */
